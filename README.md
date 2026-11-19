@@ -1,4 +1,4 @@
-TerminatorThoku@github
+Abdul Wahid@github
 -------------------------
 OS: Arch Linux / Win 11 
 Shell: zsh 5.8
